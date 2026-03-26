@@ -3,7 +3,7 @@
 A modern, feature-rich notes application built with React that allows users to create, edit, delete, and search notes with a stunning gradient UI and smooth animations. Notes are automatically saved in the browser's localStorage for persistence.
 
 ## ✨ Live Demo
-[Add your live demo link here if deployed]
+[[Link:](https://jomol2003.github.io/Notes/)
 
 ## 🚀 Features
 
@@ -177,7 +177,7 @@ Open a Pull Request
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 📧 Contact
-Your Name - @yourtwitter - email@example.com
+Jomol S- - jomolshamson2020@gmail.com
 
 Project Link: https://github.com/jomol2003/Notes
 
